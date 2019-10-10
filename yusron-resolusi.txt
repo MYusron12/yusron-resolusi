@@ -4,3 +4,12 @@ Yusron resolusi
 - Membuat forum
 - Kolaborasi dg lebih banyak expert
 - Membuat vlog
+#List Keterangan di atas adalah, contoh keterangan saat belajar membuat repository GITHUB...
+Selanjutnya adalah perubahan repository untuk kepentingan tugas mata kuliah pemrograman 3 dan rencana penggunaan GIT serta GITHUB kedepannya...
+#Tugas pemrograman 3 :
+- Registrasi Akun GITHUB serta Install GIT
+- Konsisten belajar programming
+- Menggunakan Teknik Pomodoro dalam belajar programming
+- Fokus satu bahasa pemrograman
+- Pemahaman syntax, tipe data, dan bersahabat dengan BUG
+- "belajar Programming tidak bisa ONE MAN SHOW"
